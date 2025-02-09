@@ -1,6 +1,6 @@
 ## 👋 Hi there! <br>
 ### Welcome to my GitHub! <br>
-I'm a Software Engineer with nearly *6 years of professional experience* across Telecom & Consumer Goods & Services industries. During this tenure I've demonstrated expertise working primarily on backend engineering Java/Springboot Bicroservices for an on-premise ITSM tool & Google Cloud Platform (GCP) hosted Springboot Microservices/Google Dataflow Pipelines for a Consumer Data Platform among several other things. 
+I'm a Software Engineer with nearly *6 years of professional experience* across Telecom & Consumer Goods & Services industries. During this tenure I've gained expertise working primarily on backend engineering Java/Springboot Bicroservices for an on-premise ITSM tool & Google Cloud Platform (GCP) hosted Springboot Microservices/Google Dataflow Pipelines for a Consumer Data Platform among several other things. Passionate about problem solving and demonstrated ability to learn new things
 
 ## 🌱 Passionately Learning
 I’m currently learning & working on **AI/ML driven applications** using existing LLM Models and leveraging **Retrieval-Augmented Generation (RAG)** to build context aware applications grounded to relevant datasets as a source of truth. 
@@ -18,7 +18,7 @@ I’m currently learning & working on **AI/ML driven applications** using existi
 |                              | SQL / Cloud Spanner / BigQuery                   |
 |------------------------------|--------------------------------------------------|
 | AI/ML Engineering            | Python                                           |
-|                              | OpenAI, OpenRouter APIs                          |
+|                              | HunggingFace, OpenAI, OpenRouter APIs            |
 |                              | VLLM / Ollama for Local LLM Execution            |
 |                              | LangChain                                        |
 |                              | AstraDB                                          |
