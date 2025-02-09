@@ -18,7 +18,7 @@ I’m currently learning & working on **AI/ML driven applications** using existi
 |                              | SQL / Cloud Spanner / BigQuery                   |
 |------------------------------|--------------------------------------------------|
 | AI/ML Engineering            | Python                                           |
-|                              | HunggingFace, OpenAI, OpenRouter APIs            |
+|                              | HunggingFace / OpenAI Library / OpenRouter APIs  |
 |                              | VLLM / Ollama for Local LLM Execution            |
 |                              | LangChain                                        |
 |                              | AstraDB                                          |
