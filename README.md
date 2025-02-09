@@ -12,9 +12,9 @@ I’m currently learning & working on **AI/ML driven applications** using existi
 |------------------------------|--------------------------------------------------|
 | Backend/Data Engineering     | Java, Spring Boot Microservices                  |
 |                              | Google Cloud Platform (GCP)                      |
-|                              | Google Pub/Sub                                   |
+|                              | Google PubSub                                    |
 |                              | Google Dataflow / Apache Beam (Java)             |
-|                              | Docker/Kubernetes/Helm/GitHub Actions            |
+|                              | Docker / Kubernetes / Helm / GitHub Actions      |
 |                              | SQL / Cloud Spanner / BigQuery                   |
 |------------------------------|--------------------------------------------------|
 | AI/ML Engineering            | Python                                           |
