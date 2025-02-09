@@ -3,7 +3,7 @@
 I'm a Software Engineer with nearly *6 years of professional experience* across Telecom & Consumer Goods & Services industries. During this tenure I've gained expertise working primarily on backend engineering Java/Springboot Bicroservices for an on-premise ITSM tool & Google Cloud Platform (GCP) hosted Springboot Microservices/Google Dataflow Pipelines for a Consumer Data Platform among several other things. Passionate about problem solving and demonstrated ability to learn new things
 
 ## 🌱 Passionately Learning
-I’m currently learning & working on **AI/ML driven applications** using existing LLM Models and leveraging **Retrieval-Augmented Generation (RAG)** to build context aware applications grounded to relevant datasets as a source of truth. 
+I’m currently learning & working on **AI/ML driven applications** using existing LLM Models, leveraging **Retrieval-Augmented Generation (RAG)** to build context aware applications grounded to relevant datasets as a source of truth. 
     
 ## :wrench: Tech Stack
 ```yaml
