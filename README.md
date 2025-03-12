@@ -1,28 +1,21 @@
 ## 👋 Hi there! <br>
 ### Welcome to my GitHub! <br>
 I'm a Software Engineer with nearly *6 years of professional experience* across Telecom & Consumer Goods & Services industries. During this tenure I've gained expertise working primarily on backend engineering Java/Springboot Microservices for an on-premise ITSM tool & Google Cloud Platform (GCP) hosted Springboot Microservices/Google Dataflow Pipelines for a Consumer Data Platform among several other things. Passionate about problem solving and demonstrated ability to grasp new technologies to deliver optimal solutions.
-
-## 🌱 Passionately Learning
-I’m currently learning & working on **AI/ML driven applications** using existing LLM Models, leveraging **Retrieval-Augmented Generation (RAG)** to build context aware applications grounded to relevant datasets as a source of truth. 
     
 ## :wrench: Tech Stack
 ```yaml
 |------------------------------|--------------------------------------------------|
 | Category                     | Technologies                                     |
 |------------------------------|--------------------------------------------------|
-| Backend/Data Engineering     | Java, Spring Boot Microservices                  |
+| Software Engineering         | Java, Spring Boot Microservices                  |
+|                              | Angular 19                                       |
 |                              | Google Cloud Platform (GCP)                      |
 |                              | Google PubSub                                    |
 |                              | Google Dataflow / Apache Beam (Java)             |
 |                              | Docker / Kubernetes / Helm / GitHub Actions      |
 |                              | SQL / Cloud Spanner / BigQuery                   |
 |------------------------------|--------------------------------------------------|
-| AI/ML Engineering            | Python                                           |
-|                              | HunggingFace / OpenAI Library / OpenRouter APIs  |
-|                              | VLLM / Ollama for Local LLM Execution            |
-|                              | LangChain                                        |
-|                              | AstraDB                                          |
-|------------------------------|--------------------------------------------------|
+
 ```
 ## :rocket: Projects
 ### [AI Stock Sentiment Analyser](https://github.com/eltonx17/ai-stock-analyzer)
